@@ -13,5 +13,5 @@ I am a B.Tech Computer Science & Engineering student bridging the gap between te
 - **Tools:** Git, GitHub, VS Code, Unix Terminal
 
 ### 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ankit-kumar-6315191b2/)
+- [Email](mailto:ankitmar2005@gmail.com)
