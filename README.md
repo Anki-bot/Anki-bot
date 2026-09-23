@@ -1,6 +1,8 @@
 # Hi, I'm Ankit 👋
 
-I am a B.Tech Computer Science & Engineering student bridging the gap between technical execution and business logic. My background includes driving product strategy as a Product Management Intern at Bajaj Capital Limited, and I apply that product-first mindset to my software engineering projects.
+I'm a Computer Science and Engineering (B.Tech) student bridging the gap between rigorous software engineering and strategic product development. I focus on building robust backend utilities and immersive, high-performance web experiences. 
+
+Currently, I'm challenging myself to ship meaningful code every day, treating my GitHub graph as a reflection of consistent, iterative product development, and I apply that product-first mindset to my software engineering projects.
 
 ### 🚀 What I'm Up To
 - 💻 Building robust, portfolio-grade Python utilities and CLI tools.
