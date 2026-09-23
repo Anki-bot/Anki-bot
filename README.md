@@ -5,7 +5,7 @@ I am a B.Tech Computer Science & Engineering student bridging the gap between te
 ### 🚀 What I'm Up To
 - 💻 Building robust, portfolio-grade Python utilities and CLI tools.
 - 🏆 Participating in competitive engineering events like the SIH Internal Hackathon and Code Nakshatra.
-- 🤝 Active member of the {Code}Rangers technology club at TIIPS.
+
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, C++
