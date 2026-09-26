@@ -52,7 +52,7 @@ const Ankit = {
     "Product Management & Execution Strategy",
     "CLI Automation & System Utilities"
   ],
-  hackathons: ["SIH Internal Hackathon", "Code Nakshatra 2.0"],
+  hackathon: ["SIH Internal Hackathon"],
   philosophy: "Shipping meaningful code every day with a product-first mindset."
 };
 ```
