@@ -7,7 +7,7 @@
   <h1>Ankit Kumar</h1>
   
   <a href="https://github.com/Anki-bot">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%3E+B.Tech+CSE+Student+%26+Software+Engineer;%3E+Bridging+Engineering+Execution+%26+Product+Strategy;%3E+Building+3D+Web+Experiences+%26+CLI+Utilities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%3E+B.Tech+CSE+Student+%26+Software+Engineer;%3E+Bridging+Engineering+Execution+%26+Product+Strategy;%3E+Building+Full-Stack+Apps%2C+3D+Web+%26+CLI+Utilities" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,6 +32,8 @@
     <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
     <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
     <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+    <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=white" />
@@ -50,10 +52,10 @@ const Ankit = {
   education: "B.Tech in Computer Science & Engineering",
   location: "New Delhi, India",
   focus: [
-    "Software Engineering & OOP Architecture",
+    "Full-Stack Engineering (Node.js, Express, SQLite/PostgreSQL)",
     "Interactive 3D Web Experiences (Three.js / Next.js)",
     "Product Management & Execution Strategy",
-    "CLI Automation & System Utilities"
+    "CLI Automation & OOP System Utilities"
   ],
   hackathons: ["SIH Internal Hackathon"],
   philosophy: "Shipping meaningful code every day with a product-first mindset."
@@ -66,8 +68,9 @@ const Ankit = {
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| **[Digital-CivicComplaint-Management-System](https://github.com/Anki-bot/Digital-CivicComplaint-Management-System)** | `Node.js` `Express` `SQLite/PG` | **JanSeva Pro:** Full-stack civic portal with JWT auth, SLA tracking & audit logs — **[Live Demo ↗](https://digital-civiccomplaint-management-s.vercel.app)** |
+| **[3D-ME](https://github.com/Anki-bot/3D-ME)** | `Next.js 16` `Three.js` `GLSL` | Cinematic 3D creative developer portfolio built with React Three Fiber, custom shaders & GSAP |
 | **[MERIDIAN-TIMES](https://github.com/Anki-bot/MERIDIAN-TIMES)** | `Next.js` `Three.js` `TypeScript` | Interactive 3D horology showcase with custom shader/layer asset pipelines |
-| **[3D-ME](https://github.com/Anki-bot/3D-ME)** | `JavaScript` `Three.js` `WebGL` | Interactive 3D web portfolio and immersive digital showcase |
 | **[Automated-File-Organizer](https://github.com/Anki-bot/Automated-File-Organizer)** | `Python` `Watchdog` `GitHub Actions` | Zero-dependency CLI utility with SHA-256 deduplication & background daemon |
 | **[Finance_Tracker](https://github.com/Anki-bot/Finance_Tracker)** | `Java` `OOP` `CSV Engine` | Terminal-based personal expense manager with dynamic budgets & trend analytics |
 | **[Immersive-Scientific-Calculator](https://github.com/Anki-bot/Immersive-Scientific-Calculator)** | `Python` `Tkinter` `GUI` | Sleek dark-mode desktop scientific calculator with memory states & keybindings |
@@ -78,7 +81,7 @@ const Ankit = {
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,react,nextjs,threejs,tailwind,html,css,git,github,vscode,mysql,linux&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,nodejs,express,react,nextjs,threejs,tailwind,sqlite,postgres,git,github,linux&perline=8" alt="Tech Stack Icons" />
 </div>
 
 ---
@@ -86,14 +89,14 @@ const Ankit = {
 ### 📊 GitHub Analytics & Streak
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Anki-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Anki-bot Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anki-bot&theme=tokyonight" alt="Profile Summary" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Anki-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Anki-bot Streak" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anki-bot&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anki-bot&theme=tokyonight" alt="Top Languages" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anki-bot&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anki-bot&theme=tokyonight&utcOffset=5.5" alt="Commit Time" />
+  <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anki-bot&theme=tokyonight" alt="Top Languages" />
+  <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anki-bot&theme=tokyonight" alt="GitHub Stats" />
+  <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anki-bot&theme=tokyonight&utcOffset=5.5" alt="Commit Time" />
 </div>
 
 <br/>
