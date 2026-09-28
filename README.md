@@ -3,6 +3,9 @@
   <!-- Sleek Animated Top Wave Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:38BDF8&height=120&section=header" alt="Header Wave" />
 
+  <!-- Custom Synchronized Binary Header -->
+  <img width="580" src="https://raw.githubusercontent.com/Anki-bot/Anki-bot/main/madara_binary.gif" alt="Madara Binary Header" />
+
   <!-- Dynamic Typing Header -->
   <h1>Ankit Kumar *_*</h1>
   
