@@ -7,7 +7,7 @@
   <img width="580" src="https://raw.githubusercontent.com/Anki-bot/Anki-bot/main/madara_binary.gif" alt="Madara Binary Header" />
 
   <!-- Dynamic Typing Header -->
-  <h1>Ankit Kumar *_*</h1>
+  <h1>Ankit K *_*</h1>
   
   <a href="https://github.com/Anki-bot">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%3E+B.Tech+CSE+Student+%26+Software+Engineer;%3E+Bridging+Engineering+Execution+%26+Product+Strategy;%3E+Building+Full-Stack+Apps%2C+3D+Web+%26+CLI+Utilities" alt="Typing SVG" />
