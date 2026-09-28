@@ -104,7 +104,10 @@ const Ankit = {
   <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anki-bot&theme=tokyonight" alt="GitHub Stats" />
   <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anki-bot&theme=tokyonight&utcOffset=5.5" alt="Commit Time" />
 </div>
-
+<!-- Spider-Man Web Connector -->
+<div align="center">
+  <img height="260" src="https://raw.githubusercontent.com/Anki-bot/Anki-bot/main/spiderman.png" alt="Spider-Man Web Swing" />
+</div>
 <br/>
 
 <!-- Pac-Man Contribution Animation -->
