@@ -67,8 +67,16 @@ const Ankit = {
   philosophy: "Shipping meaningful code every day with a product-first mindset."
 };
 ```
+<br/>
 
----
+<br/>
+
+<!-- Sharingan/Rinnegan + Wake Up To Reality Divider -->
+<div align="center">
+  <img width="420" src="https://raw.githubusercontent.com/Anki-bot/Anki-bot/main/eyes_wakeup.gif?v=1" alt="Wake Up To Reality" />
+</div>
+
+
 
 ### 🚀 Featured Projects
 
