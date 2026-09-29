@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Sleek Animated Top Wave Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:38BDF8&height=120&section=header" alt="Header Wave" />
+  <!-- Custom Fusion 2 Animated Header -->
+  <img width="100%" src="https://raw.githubusercontent.com/Anki-bot/Anki-bot/main/header_fusion2.svg?v=1" alt="Fusion 2 Header" />
 
   <!-- Custom Synchronized Binary Header -->
   <img width="580" src="https://raw.githubusercontent.com/Anki-bot/Anki-bot/main/madara_binary.gif" alt="Madara Binary Header" />
@@ -127,4 +127,5 @@ const Ankit = {
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E293B,100:0D1117&height=80&section=footer" alt="Footer Wave" />
+<!-- Custom Fusion 5 Animated Footer -->
+<img width="100%" src="https://raw.githubusercontent.com/Anki-bot/Anki-bot/main/footer_fusion5.svg?v=1" alt="Fusion 5 Footer" />
