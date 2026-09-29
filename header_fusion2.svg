@@ -1,0 +1,70 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glowH2" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="rinneInnerH2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F7768E"/>
+      <stop offset="60%" stop-color="#9D7CD8"/>
+      <stop offset="100%" stop-color="#131621"/>
+    </radialGradient>
+    <linearGradient id="clashLH2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="70%" stop-color="#F7768E"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="clashRH2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="70%" stop-color="#C495F6"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="#0D1117"/>
+
+  <!-- Expanding Shockwave Ripples (Synced with Fusion 5) -->
+  <ellipse cx="450" cy="60" rx="46" ry="18" fill="none" stroke="#C495F6" stroke-width="2.2" filter="url(#glowH2)">
+    <animate attributeName="rx" values="46;440" dur="3.3s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="18;54" dur="3.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.95;0" dur="3.3s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="450" cy="60" rx="46" ry="18" fill="none" stroke="#7AA2F7" stroke-width="1.8" filter="url(#glowH2)">
+    <animate attributeName="rx" values="46;440" dur="3.3s" begin="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="18;54" dur="3.3s" begin="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0" dur="3.3s" begin="1.1s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="450" cy="60" rx="46" ry="18" fill="none" stroke="#F7768E" stroke-width="1.8" filter="url(#glowH2)">
+    <animate attributeName="rx" values="46;440" dur="3.3s" begin="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="18;54" dur="3.3s" begin="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.85;0" dur="3.3s" begin="2.2s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- 50% Thinner Horizontal Clash Beams (5px at edges -> 11px at seal) -->
+  <polygon points="0,57.5 405,54.5 405,65.5 0,62.5" fill="url(#clashLH2)" filter="url(#glowH2)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="0.45s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="900,57.5 495,54.5 495,65.5 900,62.5" fill="url(#clashRH2)" filter="url(#glowH2)">
+    <animate attributeName="opacity" values="1;0.7;1" dur="0.45s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Center Summoning Seal with Fusion 5's Exact Center Pulse -->
+  <g transform="translate(450, 60)" filter="url(#glowH2)">
+    <circle cx="0" cy="0" r="46" fill="#131621" stroke="#C495F6" stroke-width="2.2"/>
+    <circle cx="0" cy="0" r="38" fill="none" stroke="#9D7CD8" stroke-width="1.2" stroke-dasharray="6,4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <polygon points="0,-34 29,17 -29,17" fill="none" stroke="#C495F6" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="0,34 29,-17 -29,-17" fill="none" stroke="#7AA2F7" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="7s" repeatCount="indefinite"/>
+    </polygon>
+    <!-- Nested Rinnegan Core & Pulse from Fusion 5 -->
+    <circle cx="0" cy="0" r="18" fill="url(#rinneInnerH2)" stroke="#C495F6" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="12" fill="none" stroke="#0D1117" stroke-width="1.3" opacity="0.85"/>
+    <circle cx="0" cy="0" r="6" fill="none" stroke="#0D1117" stroke-width="1.3" opacity="0.85"/>
+    <circle cx="0" cy="0" r="2.5" fill="#FFFFFF">
+      <animate attributeName="r" values="2;4.5;2" dur="0.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
